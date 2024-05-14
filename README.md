@@ -18,7 +18,10 @@
 5. **Biļešu dzēšana:** Ja nepieciešams, varat dzēst iepriekš iegādātas biļetes, norādot biļetes numuru vai citus identifikatorus.
 
 ## Prasības
-- Replit
+- Programma ir jāpalaiž caur savu kompilatoru.
+- Operētājsistēma: Windows 7 un uz augšu​
+- Programmas valoda: C#​
+- Bibliotēkas: System, System.Collections.Generic, System.IO.
 
 ## Uzstādīšana
 1. **Lejupielādēt kodu:** Noklikšķiniet uz "Clone or download" un izvēlieties lejupielādi vai izmantojiet Git: `git clone https://github.com/yourusername/vilcienu-saraksts.git`
